@@ -1,3 +1,8 @@
+# Neecessary links:
+- GITHUB: https://github.com/GabsMeloTI/solutech-energy.git
+- YOUTUBE: https://youtu.be/Z3sZ-mMhjxA
+
+
 # 🌍 Solutech - Renewable Energy Management Platform
 
 Welcome to **Solutech**, a sustainable energy management platform designed to optimize and monitor renewable energy distribution in remote communities. Our mission is to empower administrators and residents to achieve energy efficiency, independence, and sustainability using solar and wind energy.
