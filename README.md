@@ -8,9 +8,6 @@ Welcome to **Solutech**, a sustainable energy management platform designed to op
 - [Technologies](#technologies)
 - [Prerequisites](#prerequisites)
 - [Setup & Installation](#setup--installation)
-- [Firebase Configuration](#firebase-configuration)
-- [Docker Setup](#docker-setup)
-- [Usage](#usage)
 
 ---
 
